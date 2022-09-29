@@ -1,3 +1,7 @@
+> Update in 2022-09-29
+
+NCBI annotation for small RNA in mouse (`Mus_musculus.GRCm39.sncRNA.fa.gz`)
+
 > Update in 2022-07-29
 
 NCBI annotation for small RNA is better than the ensembl version. So another reference (`Homo_sapiens.GRCh38.sncRNA.fa.gz`) which is based on NCBI database is created.
