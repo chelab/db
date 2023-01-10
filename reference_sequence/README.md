@@ -1,6 +1,12 @@
+> Update in 2023-01-09
+
+Update customized annotation (derived from NCBI) for rRNA + small RNA in cress (`Arabidopsis_thaliana.TAIR10.sncRNA.fa.gz`)
+
+NCBI annotation for rRNA + small RNA in cress (`Mus_musculus.GRCm39.sncRNA.fa.gz`)
+
 > Update in 2022-09-29
 
-NCBI annotation for small RNA in mouse (`Mus_musculus.GRCm39.sncRNA.fa.gz`)
+NCBI annotation for rRNA + small RNA in mouse (`Mus_musculus.GRCm39.sncRNA.fa.gz`)
 
 > Update in 2022-07-29
 
