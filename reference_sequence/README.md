@@ -16,7 +16,7 @@
 
 > Update in 2023-01-11
 
-NCBI annotation for rRNA + small RNA in cress (`Mus_musculus.GRCm39.rRNA.fa.gz`)
+patched NCBI annotation for rRNA in mouse (`Mus_musculus.GRCm39.rRNA.fa.gz`)
 
 > Update in 2023-01-09
 

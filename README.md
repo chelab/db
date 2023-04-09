@@ -9,4 +9,4 @@ Data is fetched from public database and manually processed by @y9c.
 
 ⚠️ ⚠️ ⚠️
 
-**This database is not pear reviewed. Used with cautious!!!**
+**This database is not peer reviewed. Used with cautious!!!**
